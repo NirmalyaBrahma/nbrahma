@@ -1,21 +1,9 @@
-# Welcome to My Research Page
+# Nirmalya Brahma
+![NirmalyaBrahma](./media/avatar_nbrahma.jpg "Nirmalya Brahma"){align="left": style="height:320;width:320px"}
+I am a theoretical physicist working at the intersection of astrophysics, cosmology and particle physics, with a focus on uncovering the particle nature of dark matter. I am currently a Ph.D. candidate in physics at McGill University, where I work under the supervision of <a href="https://katelinschutz.com" target="_blank">Katelin Schutz</a> as a <a href="https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/" target="_blank">FRQNT scholar</a>.
 
+Before joining McGill, I earned my B.S. and M.S. in physics at the <a href="https://iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc) in Bangalore. Beyond research, I am dedicated to supporting the next generation of physicists, particularly those from diverse backgrounds and experiences, and I actively engage in science communication and mentoring.
 
-![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
+My first name is pronounced as "NIR-mal-LO" and my last name as "bruh-ma".
 
-
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
-
-## Here is an equation
-
-$$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
-
-## Here is the Crab Nebula
-
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
-I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula).
+If you would like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md) and some more info [about me](./about/about.md).

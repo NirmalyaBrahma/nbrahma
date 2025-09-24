@@ -1,34 +1,43 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Nirmalya Brahma
 # Change to your own site
 site_url: https://nirmalyabrahma.github.io/nbrahma/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_author: nirmalya.brahma@mail.mcgill.ca
+site_description: Research site for Nirmalya Brahma 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
-  <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
-  <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
+  <p>Copyright &copy; 2025 Nirmalya Brahma  — All Rights Reserved.</p>
+ 
 
+
+# <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
+# <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
 
 theme:
     name: material
+    icon:
+      logo: material/atom-variant
+    font: 
+      text: Lexend
     palette:
       # Palette toggle for light mode
-      - scheme: default
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: teal
         # Link highlight color
-        accent : orange
+        accent : deep orange
         
         toggle:
-          icon: material/brightness-7 
+          icon: material/weather-sunny
           name: Switch to dark mode
 
       # Palette toggle for dark mode
-      - scheme: slate
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        accent : deep orange
         toggle:
-          icon: material/brightness-4
+          icon: material/weather-night
           name: Switch to light mode
 
     features:
@@ -41,6 +50,7 @@ theme:
     - navigation.indexes # link an index.md page to a section
     - navigation.top # show back-to-top button
     - toc.integrate # show table of contents to navigation panel
+    # - navigation.footer
     - header.autohide
     - content.code.annotate 
     - content.code.copy
@@ -56,14 +66,19 @@ extra_javascript:
 # For describing the navigation panel
 nav:
   - Home: index.md
-  - About Me: about/index.md
-  - Research: reasearch/index.md
-  - Projects: projects/index.md
+  - Research: research/index.md
+  - Contact: contact.md
+  - CV: media/CV_Nirmalya.pdf
+
+  
 
 # Extensions that we want to use
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 
 
@@ -74,3 +89,10 @@ plugins:
     - mkdocs-jupyter:
           theme: default
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://ca.linkedin.com/in/nirmalya-brahma-952b2712a
+    # - icon: #00E5FF
+    #   link: https://inspirehep.net/authors/2664905?ui-citation-summary=true
+  generator: false
