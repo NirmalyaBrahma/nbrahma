@@ -78,6 +78,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # - pymdownx.arithmatex:
+  #     inline_syntax: ["$", "$"]
+  #     generic: true
 
 
 
@@ -92,6 +95,6 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin 
       link: https://ca.linkedin.com/in/nirmalya-brahma-952b2712a
-    # - icon: #00E5FF
-    #   link: https://inspirehep.net/authors/2664905?ui-citation-summary=true
+    - icon: custom/inspirehep
+      link: https://inspirehep.net/authors/2664905?ui-citation-summary=true
   generator: false
