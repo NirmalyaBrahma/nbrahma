@@ -52,7 +52,7 @@ theme:
     - navigation.top # show back-to-top button
     - toc.follow
     - toc.integrate # show table of contents to navigation panel
-    - navigation.footer
+    # - navigation.footer
     - header.autohide
     - content.code.annotate 
     - content.code.copy
@@ -92,6 +92,10 @@ markdown_extensions:
 # Additional plugins
 plugins:
     - search
+    - offline
+    # - search.suggest
+    # - search.highlight
+    # - search.share
     # Using jupyter notebook  
     - mkdocs-jupyter:
           theme: default
@@ -103,3 +107,6 @@ extra:
     - icon: custom/inspirehep
       link: https://inspirehep.net/authors/2664905?ui-citation-summary=true
   generator: false
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
