@@ -1,18 +1,14 @@
 window.MathJax = {
   tex: {
     inlineMath: [["$", "$"], ["\\(", "\\)"]],
-    displayMath: [["$$", "$$"], ["\\[", "\\]"]],
-    processEscapes: true,
-    processEnvironments: true
+    displayMath: [["$$", "$$"], ["\\[", "\\]"]]
   },
   options: {
-    skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"]
+    skipHtmlTags: ["script","noscript","style","textarea","pre","code"]
   }
 };
 
-document$.subscribe(() => {
-  MathJax.typesetPromise();
-});
+
 
 
   
