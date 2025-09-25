@@ -6,4 +6,4 @@ Before joining McGill, I earned my B.S. and M.S. in physics at the <a href="http
 
 My first name is pronounced as "NIR-mal-LO" and my last name as "bruh-ma".
 
-If you would like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md) and some more info [about me](./about/about.md).
+If you would like to learn more about me, you can find an introduction to [my research](./research/index.md).
