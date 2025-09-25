@@ -11,7 +11,6 @@
 For nearly a century, scientists have been puzzled by a cosmic mystery: DARK MATTER. We know it's there because of its powerful gravitational pull, shaping galaxies and the entire universe, but its true nature remains one of the biggest unanswered questions in physics. Nothing in the known Standard Model (SM) of elementary particles accounts for such elusive matter. **So what is it made of? And how does it interact with the world we can see (which is the SM)?**
 
 My research aims to solve this enigma by exploring how dark matter (DM) and other exotic particles from a hidden sector behave in some of the universe's most extreme environments. I study how dark-sector particles (let me call them $X$) interact with the blazing-hot, super-dense matter and radiation found in stars, neutron stars, and the early universe. These cosmic crucibles act as natural laboratories, amplifying subtle interactions and providing us with powerful clues.
-
 Inverting the perspective, I also investigate how a background of dark matter could subtly alter the behavior of ordinary matter. By looking for these faint imprints it is possible to open new windows into the dark sector. By developing new theoretical tools and applying them to real-world observations and experiments, my work bridges the gap between theory and observation, bringing us closer to uncovering the secrets of our hidden universe.
 
 ---
@@ -76,6 +75,29 @@ N. Brahma & K. Schutz, Photon conversion to axions and dark photons in magnetize
 N. Brahma, E. Iles, H. Schérer, K. Schutz, Resonant axion and dark photon production in magnetic white dwarfs, arXiv: 2509.07085 [hep-ph] 
 </a>
 </p>
+
+<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="./vol_dQdOmega_vs_r_wB_massWD05_allmode.gif" 
+         alt="Emissivity figure 1" 
+         style="max-width: 90%; height: auto;">
+    <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
+      Emissivity for different magnetic field strengths from the three plasmon modes.
+    </figcaption>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="./vol_dQdOmega_vs_r_thetaB_massWD05_allmode.gif" 
+         alt="Emissivity figure 2" 
+         style="max-width: 90%; height: auto;">
+    <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
+      Emissivity for different orientations of the magnetic field from the three plasmon modes.
+    </figcaption>
+  </div>
+
+</div>
+
 
 ---
 
