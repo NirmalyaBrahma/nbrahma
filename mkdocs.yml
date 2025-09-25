@@ -15,6 +15,7 @@ copyright: > # should remain a link to the original theme
 
 theme:
     name: material
+    custom_dir: overrides
     icon:
       logo: material/atom-variant
     font: 
@@ -49,8 +50,9 @@ theme:
     - navigation.expand # all sections are expanded
     - navigation.indexes # link an index.md page to a section
     - navigation.top # show back-to-top button
+    - toc.follow
     - toc.integrate # show table of contents to navigation panel
-    # - navigation.footer
+    - navigation.footer
     - header.autohide
     - content.code.annotate 
     - content.code.copy
@@ -73,6 +75,9 @@ nav:
 
 # Extensions that we want to use
 markdown_extensions:
+  - toc:
+      title: On this page
+      toc_depth: 4
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
   - pymdownx.emoji:

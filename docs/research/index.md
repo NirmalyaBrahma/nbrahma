@@ -4,28 +4,25 @@
   </a>
 </blockquote>
 
+# Research
 
+## Overview
 
-# Research Interests
+For nearly a century, scientists have been puzzled by a cosmic mystery: DARK MATTER. We know it's there because of its powerful gravitational pull, shaping galaxies and the entire universe, but its true nature remains one of the biggest unanswered questions in physics. Nothing in the known Standard Model (SM) of elementary particles accounts for such elusive matter. **So what is it made of? And how does it interact with the world we can see (which is the SM)?**
 
-For nearly a century, scientists have been puzzled by a cosmic mystery: DARK MATTER. We know it's there because of its powerful gravitational pull, shaping galaxies and the entire universe, but its true nature remains one of the biggest unanswered questions in physics. Nothing in the known Standard Model (SM) of elementary particles account for such elusive matter. **So what is it made of? And how does it interact with the world we can see (which is the SM)?**
+My research aims to solve this enigma by exploring how dark matter (DM) and other exotic particles from a hidden sector behave in some of the universe's most extreme environments. I study how dark-sector particles (let me call them $X$) interact with the blazing-hot, super-dense matter and radiation found in stars, neutron stars, and the early universe. These cosmic crucibles act as natural laboratories, amplifying subtle interactions and providing us with powerful clues.
 
-My research aims to solve this enigma by exploring how dark matter (DM) and other exotic particles from a hidden sector behave in some of the universe's most extreme environments.
-I study how dark-sector particles (let me call them $X$) interact with the blazing-hot, super-dense matter and radiation found in stars, neutron stars, and the early universe. These cosmic crucibles act as natural laboratories, amplifying subtle interactions and providing us with powerful clues.
-Inverting the perspective, I also investigate how a background of dark matter could subtly alter the behavior of ordinary matter. By looking for these faint imprints it is possible to open new windows into the dark sector.
-By developing new theoretical tools and applying them to real-world observations and experiments, my work bridges the gap between theory and observation, bringing us closer to uncovering the secrets of our hidden universe.
-
-
-# Recent Highlights
-
-
-## Resonant $X \leftrightarrow SM$ Conversions in Astrophysics
-
-Certain hidden $X$ particles, such as axions and dark photons, can interconvert with photons when traveling through astrophysical media. This conversion is resonantly enhanced when the effective photon mass in a plasma matches the particle’s mass. Such resonant processes already provide some of the strongest existing limits on hidden sectors. My work resolves key gaps in conventional treatments of this conversion process, enabling sharper interpretation of current data and more reliable guidance for future discoveries.
+Inverting the perspective, I also investigate how a background of dark matter could subtly alter the behavior of ordinary matter. By looking for these faint imprints it is possible to open new windows into the dark sector. By developing new theoretical tools and applying them to real-world observations and experiments, my work bridges the gap between theory and observation, bringing us closer to uncovering the secrets of our hidden universe.
 
 ---
 
-### Inhomogeneous Media
+## Recent Highlights
+
+### Resonant $X \leftrightarrow SM$ Conversions in Astrophysics
+
+Certain hidden $X$ particles, such as axions and dark photons, can interconvert with photons when traveling through astrophysical media. This conversion is resonantly enhanced when the effective photon mass in a plasma matches the particle’s mass. Such resonant processes already provide some of the strongest existing limits on hidden sectors. My work resolves key gaps in conventional treatments of this conversion process, enabling sharper interpretation of current data and more reliable guidance for future discoveries.
+
+#### Inhomogeneous Media
 
 <div class="grid grid-cols-2 gap-4 items-start">
 
@@ -37,7 +34,6 @@ Certain hidden $X$ particles, such as axions and dark photons, can interconvert 
     N. Brahma, A. Berlin, K. Schutz, Photon–dark photon conversion with multiple level crossings, Phys. Rev. D 108 (2023) 9, 095045
     </a>
     </p>
-
 
   </div>
 
@@ -52,9 +48,7 @@ Certain hidden $X$ particles, such as axions and dark photons, can interconvert 
 
 </div>
 
----
-
-### Anisotropic Media
+#### Anisotropic Media
 
 <div class="grid grid-cols-2 gap-4 items-start">
 
@@ -64,53 +58,28 @@ Certain hidden $X$ particles, such as axions and dark photons, can interconvert 
 
 </div>
 
-#### Magnetic white dwarfs
+##### Magnetic white dwarfs
 
 <div class="grid grid-cols-2 gap-4 items-start">
 
   <div class="text-justify">
-    Applying this framework to magnetic white dwarfs has revealed striking new effects. Interiors of magnetic white dwarfs can house immensely strong magnetic fields, exceeding $10^9$ Gauss (over billions of time stronger than Earth!). In such strongly magnetized plasma the hidden-particle emission becomes strongly directional and resonant conversion can occur even in regions where it would be kinematically forbidden in an isotropic plasma. For axions, this magnetically induced resonant emission far exceeds the standard Primakoff or bremsstrahlung channels. These studies establish the potential for these magnetic field effects to offer a powerful, new lense to probe the dark-sector.
+    Applying this framework to magnetic white dwarfs has revealed striking new effects. Interiors of magnetic white dwarfs can house immensely strong magnetic fields, exceeding $10^9$ Gauss. In such strongly magnetized plasma, hidden-particle emission becomes strongly directional and resonant conversion can occur even in regions where it would be kinematically forbidden in an isotropic plasma. For axions, this magnetically induced resonant emission far exceeds the standard Primakoff or bremsstrahlung channels. These studies establish the potential for these magnetic field effects to offer a powerful, new lens to probe the dark sector.
   </div>
 
 </div>
 
- <p><em>Relevant publications:</em><br>
-    <a href="https://arxiv.org/abs/2410.14771" target="_blank">
-    N. Brahma & K. Schutz, Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach, JHEP 12 (2024) 191 
-    </a><br>
-    <a href="https://arxiv.org/abs/2509.07085" target="_blank">
-    N. Brahma, E. Iles, H. Schérer, K. Schutz, Resonant axion and dark photon production in magnetic white dwarfs, arXiv: 2509.07085 [hep-ph] 
-    </a>
-    </p>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem;">
-
-  <!-- Figure 1 -->
-  <div style="flex: 1; text-align: center;">
-    <img src="./vol_dQdOmega_vs_r_wB_massWD05_allmode.gif" 
-         alt="Anisotropic media figure" 
-         style="height:350px; width:auto;">
-    <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
-      Emissivity inside a 0.5 $M_\odot$ magnetic white dwarf from the three propagating modes ($I=1,2,3$) for different magnetic field strengths, expressed in terms of the cyclotron frequency $\omega_B$.
-    </figcaption>
-  </div>
-
-  <!-- Figure 2 -->
-  <div style="flex: 1; text-align: center;">
-    <img src="./vol_dQdOmega_vs_r_thetaB_massWD05_allmode.gif" 
-         alt="Magnetic white dwarf figure" 
-         style="height:350px; width:auto;">
-    <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
-      Emissivity inside a 0.5 $M_\odot$ magnetic white dwarf from the three propagating modes ($I=1,2,3$) for different orientations ($\theta_B$) of the magnetic field w.r.t the propagation direction of the plasmon.
-    </figcaption>
-  </div>
-
-</div>
-
+<p><em>Relevant publications:</em><br>
+<a href="https://arxiv.org/abs/2410.14771" target="_blank">
+N. Brahma & K. Schutz, Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach, JHEP 12 (2024) 191 
+</a><br>
+<a href="https://arxiv.org/abs/2509.07085" target="_blank">
+N. Brahma, E. Iles, H. Schérer, K. Schutz, Resonant axion and dark photon production in magnetic white dwarfs, arXiv: 2509.07085 [hep-ph] 
+</a>
+</p>
 
 ---
 
-## Dark Matter Production in Hot and Dense Media at multi-loop
+### Dark Matter Production in Hot and Dense Media at Multi-Loop
 
 <div class="grid grid-cols-2 gap-4 items-start">
 
@@ -138,7 +107,7 @@ Certain hidden $X$ particles, such as axions and dark photons, can interconvert 
 
 ---
 
-## Resonant Inelastic Dark Matter — a Viable Sub-GeV Thermal Target
+### Resonant Inelastic Dark Matter — a Viable Sub-GeV Thermal Target
 
 <div class="grid grid-cols-2 gap-4 items-start">
 
@@ -151,21 +120,10 @@ Certain hidden $X$ particles, such as axions and dark photons, can interconvert 
     </a>
     </p>
 
-
   </div>
-
- 
 
   <div class="flex justify-center items-start">
     <div>
       <img src="./relic_params-1.png" alt="Sub-GeV dark matter figure" class="h-72 w-[450px]">
       <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
-        Viable small coupling values reproducing the observed DM relic density for different masses ($m_\chi$) of the pseudo-Dirac DM and for various resonance parameter $\epsilon_R$.
-      </figcaption>
-    </div>
-  </div>
-
-</div>
-
-
-
+        Viable small coupling values reproducing the observed DM relic density for different masses ($m_\chi$) of
