@@ -71,7 +71,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Research: research/index.md
-  - Pendulums to Particles: PtoP/index.md
+  - Pendulums to Particles: PtoP/ptop.md
   - Contact: contact.md
   - CV: media/CV_Nirmalya.pdf
 
