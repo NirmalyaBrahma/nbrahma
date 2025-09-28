@@ -1,3 +1,5 @@
+# mkdocs serve -> mkdocs build -> commit changes -> mkdocs gh-deploy
+
 # Change to your own name
 site_name: Nirmalya Brahma
 # Change to your own site
@@ -69,6 +71,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Research: research/index.md
+  - Pendulums to Particles: PtoP/index.md
   - Contact: contact.md
   - CV: media/CV_Nirmalya.pdf
 
