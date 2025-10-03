@@ -20,11 +20,21 @@ Now you might ask: what does any of this have to do with **dark matter (DM)**? S
 
 ## Step 1: The Physics of Coupled Pendulums  
 
-As the ritual goes with any classical mechanics problem, let’s start with a **free-body diagram** for the two pendulums. Applying Newton’s second law ($F = ma$), we can write down the equations of motion for pendulum 1 and 2.  
+As the ritual goes with any classical mechanics problem, let’s start with a **free-body diagram** for the two pendulums. 
 
-<!-- <div align="center">
-  <img src="free_body_diagram.png" alt="Free body diagram of coupled pendulums" width="400">
-</div>   -->
+<div align="center">
+  <img src="./coupled_FBD.jpeg" alt="Free body diagram of coupled pendulums" width="400">
+</div>  
+### Variables
+- $m_1, m_2$ — masses of pendulum 1 and 2  
+- $l_1, l_2$ — lengths of the pendulum rods  
+- $\theta_1, \theta_2$ — angular displacements of pendulum 1 and 2 (measured from vertical)  
+- $\ddot{\theta}_1, \ddot{\theta}_2$ — angular accelerations of pendulum 1 and 2  
+- $g$ — gravitational acceleration  
+- $\eta$ — coupling constant, describing the restoring force due to the spring (or coupling) between pendulums  
+- $\omega_1^2 = g/l_1$, $\omega_2^2 = g/l_2$ — natural squared frequencies of the uncoupled pendulums  
+
+Applying Newton’s second law ($F = ma$), we can write down the equations of motion for pendulum 1 and 2.  
 
 $$
 m_1 l_1^2\ddot{\theta}_1 = -m_1 g l_1 \sin{\theta_1} - \eta(l_1 \sin{\theta_1} - l_2 \sin{\theta_2})
@@ -54,9 +64,14 @@ $$
 
 If you’re worried about not knowing or forgotten linear algebra, don’t sweat it! Instead of grinding through the math, here’s a visualization of the solution.  
 
-<!-- <div align="center">
-  <img src="coupled_solution.gif" alt="Solution of coupled pendulums" width="400">
-</div>   -->
+  <div style="flex: 1; text-align: center;">
+    <img src="./coupled_pendula_constant_l.gif" 
+         alt="Emissivity figure 1" 
+         style="max-width: 100%; height: auto;">
+    <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
+      Coupled pendulum system with constant $l_1$ and $l_2$
+    </figcaption>
+  </div> 
 
 ---
 
@@ -81,7 +96,7 @@ The key observation: when the lengths of the two pendulums become equal ($l_1 = 
 
 $$\omega_1(t_\text{res}) = \omega_2,$$  
 
-with $t_\text{res}$ marking the resonance time.  
+with $t_\text{res}$ marking the time at which resonance occurs.  
 
 ---
 
@@ -99,7 +114,7 @@ At the special point when the photon’s effective mass matches the mass of the 
 
 $$m_\gamma(t) = m_\text{DM},$$  
 
-—energy transfers **resonantly** between photons and dark matter and voila you have created a **dark matter out of light!** 
+—energy transfers **resonantly** between photons and dark matter and *voila* you have created **dark matter out of light!** 
 You can carry out the exact same logic with  
 
 - Oscillations of **pendulum 2** → **ordinary photons**  
