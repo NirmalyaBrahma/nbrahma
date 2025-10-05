@@ -11,7 +11,7 @@ at McGill University, where I work under the supervision of
 </p>
 
 
-Before joining McGill, I earned my B.S. and M.S. in physics at the <a href="https://iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc) in Bangalore. Beyond research, I enjoy mentoring younger students and to engage in science communication, with a focus on making physics accessible and inclusive.
+Before joining McGill, I earned my B.S. and M.S. in physics at the <a href="https://iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc) in Bangalore. Beyond research, I enjoy mentoring younger students and to engage in science communication, with a focus on making physics accessible and  (see [my contact](./contact.md) if you want to connect).
 
 My first name is pronounced as "NIR-mal-LO" and my last name as "bruh-ma".
 

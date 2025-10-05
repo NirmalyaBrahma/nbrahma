@@ -62,7 +62,7 @@ $$
 $$
 
 
-If you’re worried about not knowing or forgotten linear algebra, don’t sweat it! Instead of grinding through the math, here’s a visualization of the solution.  
+If you’re worried about not knowing or forgotten linear algebra to solve such coupled systems, don’t sweat it! Instead of grinding through the math, here’s a visualization of the solution.  
 
   <div style="flex: 1; text-align: center;">
     <img src="./coupled_pendula_constant_l.gif" 
@@ -72,6 +72,7 @@ If you’re worried about not knowing or forgotten linear algebra, don’t sweat
       Coupled pendulum system with constant $l_1$ and $l_2$
     </figcaption>
   </div> 
+As advertised the energy from pendulum 1 transfer to pendulum 2 periodically with the total energy of the system remaining constant of course.
 
 ---
 
@@ -81,7 +82,7 @@ Now let’s make things more interesting. Suppose the length of pendulum 1, $l_1
 
 $$\omega_1(t) \propto \frac{1}{\sqrt{l_1(t)}}.$$
 
-You can imagine someone slowly letting out the string of pendulum 1 at a rate $\alpha$. Once again, we can write down similar equations of motion, and here’s what the solution looks like:  
+You can imagine someone slowly letting out the string of pendulum 1 at a rate $\alpha$. We have also taken the spring constant $\eta$ to be small, in anticipation of the feeble interactions of DM with ordinary matter. Once again, we can write down similar equations of motion, and here’s what the solution looks like:  
 
   <div style="flex: 1; text-align: center;">
     <img src="./coupled_pendula_increasing_l.gif" 

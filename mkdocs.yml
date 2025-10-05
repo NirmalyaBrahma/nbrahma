@@ -44,7 +44,7 @@ theme:
           name: Switch to light mode
 
     features:
-    - navigation.instant # some features may not work properly with XHR
+    # - navigation.instant # some features may not work properly with XHR
     - navigation.tracking # the URL changes with the active anchor
     - navigation.tabs # first top-level sections are shown as tabs
     - navigation.tabs.sticky # tabs always show

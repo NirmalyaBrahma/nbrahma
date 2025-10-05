@@ -625,7 +625,7 @@ $$</p>
 \theta_2
 \end{pmatrix}
 $$</p>
-<p>If you’re worried about not knowing or forgotten linear algebra, don’t sweat it! Instead of grinding through the math, here’s a visualization of the solution.  </p>
+<p>If you’re worried about not knowing or forgotten linear algebra to solve such coupled systems, don’t sweat it! Instead of grinding through the math, here’s a visualization of the solution.  </p>
 <div style="flex: 1; text-align: center;">
     <img src="./coupled_pendula_constant_l.gif" 
          alt="Emissivity figure 1" 
@@ -634,12 +634,12 @@ $$</p>
       Coupled pendulum system with constant $l_1$ and $l_2$
     </figcaption>
   </div>
-
+<p>As advertised the energy from pendulum 1 transfer to pendulum 2 periodically with the total energy of the system remaining constant of course.</p>
 <hr />
 <h2 id="step-2-adding-a-twista-changing-pendulum">Step 2: Adding a Twist—A Changing Pendulum</h2>
 <p>Now let’s make things more interesting. Suppose the length of pendulum 1, $l_1$, changes slowly with time, going from some initial length $l_i$ to a final length $l_f$ over a duration $T$. This means its <strong>natural frequency</strong> becomes time-dependent:  </p>
 <p>$$\omega_1(t) \propto \frac{1}{\sqrt{l_1(t)}}.$$</p>
-<p>You can imagine someone slowly letting out the string of pendulum 1 at a rate $\alpha$. Once again, we can write down similar equations of motion, and here’s what the solution looks like:  </p>
+<p>You can imagine someone slowly letting out the string of pendulum 1 at a rate $\alpha$. We have also taken the spring constant $\eta$ to be small, in anticipation of the feeble interactions of DM with ordinary matter. Once again, we can write down similar equations of motion, and here’s what the solution looks like:  </p>
 <div style="flex: 1; text-align: center;">
     <img src="./coupled_pendula_increasing_l.gif" 
          alt="Emissivity figure 1" 
@@ -757,7 +757,7 @@ You can carry out the exact same logic with  </p>
     
     
       
-      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.indexes", "navigation.top", "toc.follow", "toc.integrate", "header.autohide", "content.code.annotate", "content.code.copy"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.indexes", "navigation.top", "toc.follow", "toc.integrate", "header.autohide", "content.code.annotate", "content.code.copy"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
