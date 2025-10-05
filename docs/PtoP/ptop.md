@@ -76,7 +76,7 @@ As advertised the energy from pendulum 1 transfer to pendulum 2 periodically wit
 
 ---
 
-## Step 2: Adding a Twist—A Changing Pendulum  
+## Step 2: Adding a Twist—A Length Changing Pendulum  
 
 Now let’s make things more interesting. Suppose the length of pendulum 1, $l_1$, changes slowly with time, going from some initial length $l_i$ to a final length $l_f$ over a duration $T$. This means its **natural frequency** becomes time-dependent:  
 
