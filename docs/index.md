@@ -10,7 +10,7 @@
 
 <p>
 I am a theoretical physicist working at the intersection of astrophysics, cosmology, and particle physics, with a focus on uncovering the particle nature of dark matter. My research explores how dark matter interacts with the visible universe by connecting fundamental particle theory with astrophysical and laboratory data to reveal the hidden ingredients of our cosmos.  
-If you would like to learn more, take a look at <a href="./research/index.md">my research page</a> or, for a more “classical” picture, see <a href="./PtoP/ptop.md">here</a>.
+If you would like to learn more, take a look at <a href="./research/">my research page</a> or, for a more “classical” picture, see <a href="./PtoP/">here</a>.
 </p>
 
 <p>
