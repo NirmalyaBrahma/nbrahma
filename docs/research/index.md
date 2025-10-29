@@ -148,4 +148,4 @@ N. Brahma, E. Iles, H. Schérer, K. Schutz, Resonant axion and dark photon produ
     <div>
       <img src="./relic_params-1.png" alt="Sub-GeV dark matter figure" class="h-72 w-[450px]">
       <figcaption style="font-size:12px; text-align:center; margin-top:0.5rem;">
-        Viable small coupling values reproducing the observed DM relic density for different masses ($m_\chi$) and for different resonance parameter (\epsilon_R)
+        Viable small coupling values reproducing the observed DM relic density for different masses ($m_\chi$) and for different resonance parameter ($\epsilon_R$)
