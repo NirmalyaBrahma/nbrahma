@@ -103,19 +103,19 @@ with $t_\text{res}$ marking the time at which resonance occurs.
 
 ## Step 3: From Pendulums to Dark Matter  
 
-Here’s the exciting part. Some dark matter candidates—such as **axions** and **dark photons**—can couple to light (ordinary photons).  
+Here’s the exciting part. Some dark matter candidates (such as **axions** and **dark photons**) can couple to light (ordinary photons).  
 
 Think of it this way:  
 - Oscillations of **pendulum 1** → **ordinary photons**  
 - Oscillations of **pendulum 2** → **dark matter particles**  
 
-In vacuum, photons are massless, zipping along at the speed of light with refractive index $n = 1$. But in a medium, photons acquire an **effective mass**—equivalent to the refractive index shifting away from 1. As the photon moves through regions where the medium’s properties (density, temperature, etc.) vary, this effective mass evolves, just like $\omega_1(t)$ evolved with the changing pendulum length.  
+In vacuum, photons are massless, zipping along at the speed of light with refractive index $n = 1$. But in a medium, photons acquire an **effective mass**, equivalent to the refractive index shifting away from 1. As the photon moves through regions where the medium’s properties (density, temperature, etc.) vary, this effective mass evolves, just like $\omega_1(t)$ evolved with the changing pendulum length.  
 
 At the special point when the photon’s effective mass matches the mass of the dark matter particle—  
 
 $$m_\gamma(t) = m_\text{DM},$$  
 
-—energy transfers **resonantly** between photons and dark matter and *voila* you have created **dark matter out of light!** 
+energy transfers **resonantly** between photons and dark matter and *voila* you have created **dark matter out of light!** 
 You can carry out the exact same logic with  
 
 - Oscillations of **pendulum 2** → **ordinary photons**  
@@ -134,4 +134,4 @@ This framework has already given us some of the **world’s leading constraints*
 
 ---
 
-**In short:** the humble coupled pendulum experiment you might play with in school is more than a neat demo—it’s a window into how physicists are probing one of the biggest mysteries of the universe: the nature of dark matter.  
+**In short:** the humble coupled pendulum experiment you might play with in school is more than a neat demo, it’s a window into how physicists are probing one of the biggest mysteries of the universe: the nature of dark matter.  
